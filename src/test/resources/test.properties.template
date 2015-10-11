@@ -1,0 +1,7 @@
+
+qiitapi.test.valid.user.id=
+qiitapi.test.valid.accessToken=
+qiitapi.test.valid.item.id=
+qiitapi.test.invalid.user.id=xxxxxxxx
+qiitapi.test.invalid.accessToken=xxxxxxxx
+qiitapi.test.invalid.item.id=xxxxxxxx
